@@ -20,6 +20,16 @@ git clone https://github.com/LEON6156SCOTT/Billing-Software.git
 - Under billi/dist, you will find JAR file named billi.jar. 
 - Execute it to run the software.
 
+#### To run the project from the command line.
+
+- Go to the dist folder 
+- Type the below command
+
+```md
+java -jar "billi.jar" 
+```
+
+
 ## Softwares needed:
 
 Make sure you have these softwares while executing the software.
